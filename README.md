@@ -1,10 +1,16 @@
-# OS-Note
+# CS-Learning-Notes
 
-这是一份关于操作系统的学习笔记。
+- 这是我的CS学习笔记，记录我在学习CS的知识时整理的笔记。
 
-## 参考资料
+- 目前主要感兴趣和学习的方向在系统领域。
 
-- [MIT6.S081](https://pdos.csail.mit.edu/6.S081/2020/)
-- [rCore-Tutorial-Book-v3](https://rcore-os.github.io/rCore-Tutorial-Book-v3/)
-- [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
+## 正在更新的部分
+
+- Operating systems
+
+## 计划创作的部分
+
+- Computer architecture
+- Computer networks
+- Algorithms
 
