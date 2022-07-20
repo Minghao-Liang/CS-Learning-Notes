@@ -7,7 +7,6 @@
 ## 正在更新的部分
 
 - Operating systems
-- Theory of Computation
 
 ## 计划创作的部分
 
